@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Hi, I'm MD. Mahmudul Hasan
 
-<!--
-**mahamudul178/mahamudul178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Backend Developer | Django (DRF) | FastAPI
 
-Here are some ideas to get you started:
+I'm a passionate **Backend Developer** focused on building scalable, secure, and clean backend systems. I enjoy working with APIs, databases, and backend architecture, and I like writing maintainable code following best practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+* 🔹 Backend-focused developer
+* 🔹 Experience with RESTful APIs & backend architecture
+* 🔹 Comfortable with Python (OOP) and system-level concepts
+* 🔹 Interested in clean code, performance, and scalability
+* 🔹 Learning and contributing to open-source projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧩 Backend
+
+* **Python** (OOP)
+* **Django & Django REST Framework (DRF)**
+* **FastAPI**
+
+### 🗄️ Database
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### ⚙️ Tools & DevOps
+
+* Docker
+* Git & GitHub
+* CI/CD (basic pipelines)
+
+### 💻 Programming Languages
+
+* Python
+* C
+* C++
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Django REST API Project
+
+* RESTful API with authentication & authorization
+* CRUD operations
+* JWT-based authentication
+* Clean project structure
+
+### 🔹 FastAPI Backend Service
+
+* High-performance API using FastAPI
+* Async endpoints
+* Pydantic validation
+* Auto-generated Swagger docs
+
+> 📌 *More projects available in my repositories section*
+
+---
+
+## 🌱 Open Source
+
+* Actively learning open-source contribution
+* Interested in contributing to community-driven projects
+* Comfortable with issues, pull requests, and code reviews
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahamudul178\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahamudul178\&layout=compact\&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+* 📧 **Email:** [mahamudul.ice.pust.12@gmail.com](mailto:mahamudul.ice.pust.12@gmail.com)
+* 🔗 **LinkedIn:** [MD. Mahmudul Hasan](https://www.linkedin.com/in/md-mahamudul-hasan-04b915262/)
+
+---
+
+⭐ *If you like my work, feel free to star my repositories!*
