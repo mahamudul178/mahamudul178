@@ -2,9 +2,8 @@
 
 I'm a passionate **Backend Developer** focused on building scalable, secure, and clean backend systems. I enjoy working with APIs, databases, and backend architecture, and I like writing maintainable code following best practices.
 
-
+---
 ### Tech Stack
-
 * Backend: Python (Django, FastAPI, Flask)
 * Async Programming: Python asyncio
 * Frontend: JavaScript (React.js, Vue.js, HTML,Tailwind CSS)
