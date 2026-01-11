@@ -4,16 +4,16 @@ I'm a passionate **Backend Developer** focused on building scalable, secure, and
 
 ---
 ### About Me
-🔹 Backend: Python (Django, FastAPI, Flask)
-🔹 Async Programming: Python asyncio
-🔹 Frontend: JavaScript (React.js, Vue.js, HTML,Tailwind CSS)
-🔹 Database: MySQL, PostgreSQL, SQLite
-🔹 DevOps: Docker, CI/CD, Nginx, Redis
-🔹 Cloud: AWS (EC2, RDS, S3, Lambda)
-🔹 Version Control: Git & GitHub
-🔹 APIs: REST API development & integration
-🔹 Architecture Design: System Design, Multi-Tenant Architecture, Microservices, Kafka (Event-Driven Communication)
-🔹 Learning and contributing to open-source projects
+* Backend: Python (Django, FastAPI, Flask)
+* Async Programming: Python asyncio
+* Frontend: JavaScript (React.js, Vue.js, HTML,Tailwind CSS)
+* Database: MySQL, PostgreSQL, SQLite
+* DevOps: Docker, CI/CD, Nginx, Redis
+* Cloud: AWS (EC2, RDS, S3, Lambda)
+* Version Control: Git & GitHub
+* APIs: REST API development & integration
+* Architecture Design: System Design, Multi-Tenant Architecture, Microservices, Kafka (Event-Driven Communication)
+* Learning and contributing to open-source projects
 ---
 * **Email:** [mahamudul.ice.pust.12@gmail.com](mailto:mahamudul.ice.pust.12@gmail.com)
 * **LinkedIn:** [MD. Mahamudul Hasan](https://www.linkedin.com/in/md-mahamudul-hasan-04b915262/)
