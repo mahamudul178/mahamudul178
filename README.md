@@ -5,8 +5,8 @@ I'm a passionate **Backend Developer** focused on building scalable, secure, and
 ---
 ### Tech Stack
 * Backend: Python (Django, FastAPI, Flask)
-* Async Programming: Python asyncio
 * Frontend: JavaScript (React.js, Vue.js, HTML,Tailwind CSS)
+* Async Programming: Python asyncio
 * Database: MySQL, PostgreSQL, SQLite
 * DevOps: Docker, CI/CD, Nginx, Redis
 * Cloud: AWS (EC2, RDS, S3, Lambda)
