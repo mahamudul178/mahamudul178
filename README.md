@@ -12,7 +12,7 @@ I'm a passionate **Backend Developer** focused on building scalable, secure, and
 * Cloud: AWS (EC2, RDS, S3, Lambda)
 * Version Control: Git & GitHub
 * APIs: REST API development & integration
-* Architecture Design: System Design, Multi-Tenant Architecture, Microservices, Kafka (Event-Driven Communication)
+* Architecture Design: System Design, Multi-Tenant Architecture, Microservices, Kafka)
 * Learning and contributing to open-source projects
 ---
 * **Email:** [mahamudul.ice.pust.12@gmail.com](mailto:mahamudul.ice.pust.12@gmail.com)
