@@ -1,4 +1,4 @@
-## Backend Developer | Django (DRF) | FastAPI | Docker | CI/CD 
+## Backend Developer | Python | Django (DRF) | FastAPI | Docker | CI/CD 
 
 I'm a passionate **Backend Developer** focused on building scalable, secure, and clean backend systems. I enjoy working with APIs, databases, and backend architecture, and I like writing maintainable code following best practices.
 
